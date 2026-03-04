@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2",
+    "express": "^4.22.1",
     "minimist": "^1.2.8",
     "mongoose": "^6.13.6",
     "socket.io": "^4.7.5"
